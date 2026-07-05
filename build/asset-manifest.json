@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/IvanSawaya/Larder/static/css/main.cc88b279.css",
-    "main.js": "/IvanSawaya/Larder/static/js/main.1374adca.js",
-    "index.html": "/IvanSawaya/Larder/index.html",
-    "main.cc88b279.css.map": "/IvanSawaya/Larder/static/css/main.cc88b279.css.map",
-    "main.1374adca.js.map": "/IvanSawaya/Larder/static/js/main.1374adca.js.map"
+    "main.css": "/Larder/static/css/main.cc88b279.css",
+    "main.js": "/Larder/static/js/main.1374adca.js",
+    "index.html": "/Larder/index.html",
+    "main.cc88b279.css.map": "/Larder/static/css/main.cc88b279.css.map",
+    "main.1374adca.js.map": "/Larder/static/js/main.1374adca.js.map"
   },
   "entrypoints": [
     "static/css/main.cc88b279.css",
