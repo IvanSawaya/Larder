@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IvanSawaya/Larder/static/css/main.cc88b279.css",
+    "main.js": "/IvanSawaya/Larder/static/js/main.1374adca.js",
+    "index.html": "/IvanSawaya/Larder/index.html",
+    "main.cc88b279.css.map": "/IvanSawaya/Larder/static/css/main.cc88b279.css.map",
+    "main.1374adca.js.map": "/IvanSawaya/Larder/static/js/main.1374adca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc88b279.css",
+    "static/js/main.1374adca.js"
+  ]
+}
